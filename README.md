@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![BigCat3997's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigcat3997&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigCat3997&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
