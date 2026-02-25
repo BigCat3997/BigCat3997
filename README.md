@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![BigCat3997's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigcat3997&show_icons=true&theme=gruvbox)
+## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigCat3997&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BigCat3997&theme=gruvbox)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BigCat3997&theme=gruvbox)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BigCat3997&theme=github-dark)
