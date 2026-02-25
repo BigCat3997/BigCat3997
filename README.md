@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a DevOps/SRE engineer.
 - 🌱 I’m currently learning GoLang language and Cloud implementation's strategies to create useful applications and manage resources of DevOps effectively.
-- 📫 How to reach me: [...](https://www.facebook.com/quangthanh.vo.7902/)
+- 📫 How to reach me: https://www.facebook.com/quangthanh.vo.7902/
   
 ## 📊 GitHub Stats
 
